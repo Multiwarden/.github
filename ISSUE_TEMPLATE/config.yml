@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problem with the browser extension or desktop app
+    url: https://github.com/multiwarden/clients/issues/new/choose
+    about: Report it in the multiwarden/clients repository.
+  - name: Problem with the Android app
+    url: https://github.com/multiwarden/android/issues/new/choose
+    about: Report it in the Android app's repository.
+  - name: Report a security vulnerability
+    url: https://github.com/multiwarden/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, never in a public issue.
